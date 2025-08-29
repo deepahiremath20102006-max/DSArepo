@@ -50,15 +50,17 @@ int main() {
 
 
 // factorial
-    int n,res=1;
-    printf("enter the no.");
-    scanf("%d",&n);
-    for(int i=1;i<=n;i++){
-         res=res*i;
-    }
-    printf("factorial of %d no. is= %d",n,res);
+    // int n,res=1;
+    // printf("enter the no.");
+    // scanf("%d",&n);
+    // for(int i=1;i<=n;i++){
+    //      res=res*i;
+    // }
+    // printf("factorial of %d no. is= %d",n,res);
 
-     
+
+
+
 
 
 
